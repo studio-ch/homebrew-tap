@@ -1,9 +1,9 @@
 # studio-ch/homebrew-tap
 
-Homebrew formulae for [Flow Swiss](https://cloud.flow.swiss) tools.
+Homebrew formulae for Cloud Console tools.
 
 ```bash
-brew install studio-ch/tap/xcloud
+brew install studio-ch/tap/cloudconsole
 ```
 
 `brew tap studio-ch/tap` resolves to this repository — Homebrew expands
@@ -14,7 +14,7 @@ name carries the `homebrew-` prefix.
 
 | Formula | Description |
 |---|---|
-| `xcloud` | Command-line interface for the Cloud Console — see [studio-ch/xcloud-cli](https://github.com/studio-ch/xcloud-cli) |
+| `cloudconsole` | Command-line interface for the Cloud Console — see [studio-ch/cloudconsole-cli](https://github.com/studio-ch/cloudconsole-cli) |
 
 ## About this repository
 
